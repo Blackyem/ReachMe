@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReachMe/static/css/main.f385e556.css",
+    "main.js": "/ReachMe/static/js/main.7f9ba3b4.js",
+    "static/media/Ambientnature-atmosphere.mp4": "/ReachMe/static/media/Ambientnature-atmosphere.bcf35eaa81dd23068b24.mp4",
+    "static/media/My-Logo2.png": "/ReachMe/static/media/My-Logo2.65c9b3a0e18d85737ddc.png",
+    "static/media/My-Logo.png": "/ReachMe/static/media/My-Logo.bc068b7144f79dec3cc3.png",
+    "index.html": "/ReachMe/index.html",
+    "main.f385e556.css.map": "/ReachMe/static/css/main.f385e556.css.map",
+    "main.7f9ba3b4.js.map": "/ReachMe/static/js/main.7f9ba3b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f385e556.css",
+    "static/js/main.7f9ba3b4.js"
+  ]
+}
